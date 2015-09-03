@@ -1,3 +1,8 @@
+Version 5.6.1-uber1
+-------------------
+
+* Cherry-picked fix for Tornado handlers (https://github.com/getsentry/raven-python/commit/e97071ae841f3a7762d7ae19ef0aabd47d9313f6)
+
 Version 5.6.0
 -------------
 
